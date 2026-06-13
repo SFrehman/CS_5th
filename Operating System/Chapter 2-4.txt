@@ -1,0 +1,26 @@
+What is Process
+What are its States
+What are state transitions
+What is Process Control Block (PCB)
+What are Operations on Process
+What is Inter-Processing Communication (IPC)
+-------------------------------------------
+What is Scheduling
+What is Multiprogramming
+Scheduling Objectives
+Premtive and Non Premtive Scedulling
+Scheduling Criteria
+Scheduling Algorithms
+1. First Come First (FCFS)
+2. Short Job First (SJFS)
+	Pre-emtive
+	Non Pre-emtive
+3. Priority Scheduling
+	Pre-emtive
+	Non Pre-emtive
+4. Rount Robin Scheduling
+5. Multi-level Queue Scheduling
+6. Multi-Level Feedbackk Queue Scheduling
+
+What is Multiple time Scheduling
+What is Real-Time Scheduling

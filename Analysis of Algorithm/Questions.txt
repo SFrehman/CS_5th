@@ -1,0 +1,4 @@
+What is Algorithm?
+What is Analysis of Algorithm?
+Types of Algorithm (Priory , Posterior)
+Aymptotic Notations (Big O , Big Omega , Theta)
